@@ -6,7 +6,6 @@ import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.Route;
 
 @PageTitle("Search Booking")
-@Route(value = "Search Booking", layout = MainView.class)
+@Route(value = "search-booking", layout = MainView.class)
 public class SearchBooking extends VerticalLayout {
-
 }
